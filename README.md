@@ -1,3 +1,12 @@
+# O Projeto
+Este projeto esta rondando em [Clique aqui](http://srv106.teste.website/~comprodutos/)
+
+# Objetivo
+
+Para efetuar estudados sobre o microframework Lumen do Laravel.<br>
+O front do projeto pode ser clonado deste repositório [ProdutosFront-laravel-v8](https://github.com/Schielke-code/ProdutosFront-laravel-v8)
+
+
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
