@@ -6,7 +6,7 @@ Este projeto esta rondando em [Clique aqui](http://srv106.teste.website/~comprod
 
 # Objetivo
 
-Para efetuar estudados sobre o microframework Lumen do Laravel.<br>
+Para efetuar estudados sobre o microframework Lumen do Laravel. por esse motivos esta em fase de testes utilizando: <br> ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) ambiente de homologação ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) <br>
 O front do projeto pode ser clonado deste repositório [ProdutosFront-laravel-v8](https://github.com/Schielke-code/ProdutosFront-laravel-v8)
 
 
