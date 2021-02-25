@@ -1,4 +1,7 @@
 # O Projeto
+
+O projeto consiste no cadastro de produtos e kits/combos via API utilizando lumen como back end.<br>
+No projeto do lado front a uma integração tabém com a api do mercado livre onde será responsavel por listar as categorias  dos produtos cadastrados.
 Este projeto esta rondando em [Clique aqui](http://srv106.teste.website/~comprodutos/)
 
 # Objetivo
